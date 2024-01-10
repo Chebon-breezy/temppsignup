@@ -11,7 +11,7 @@ export default function Component() {
     <div className="mx-auto max-w-md space-y-6">
       <div className="space-y-2 text-center">
         <h1 className="text-3xl font-bold">Sign Up</h1>
-        <p className="text-gray-500 dark:text-gray-400">Create your account, it's free and only takes a minute.</p>
+        <p className="text-gray-500 dark:text-gray-400">Create your account, it&apos;s free and only takes a minute.</p>
       </div>
       <div className="space-y-4">
         <div className="space-y-2">
